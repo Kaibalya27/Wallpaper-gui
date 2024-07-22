@@ -18,6 +18,6 @@ A simple wallpaper viewer built using Python's Tkinter and PIL libraries. This a
 
 Feel free to share your feedback or suggestions for improvement! You're also welcome to contribute by adding new features or fixing potential issues.
 
-[View the LinkedIn post](https://www.linkedin.com/posts/your_post_id)
+[View the LinkedIn post for video demo](https://www.linkedin.com/posts/kaibalyamohapatra_python-tkinter-pil-activity-7221015221878898688-msf_?utm_source=share&utm_medium=member_desktop)
 
 **Happy wallpapering!**
